@@ -9,3 +9,7 @@ Training a Naive Bayes classifier to predict sentiment from thousands of Twitter
 * Created a pipeline to remove stop-words, punctuation, and perform tokenization
 * Trained a Naive Bayes Classifier
 * Assessed the trained model performance
+
+### Dataset Source: 
+
+https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech
